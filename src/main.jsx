@@ -27,3 +27,5 @@ createRoot(document.getElementById('root')).render(
     <App />
   </StrictMode>,
 )
+
+//Challenge 2. Render all the notes inside notes.js as a seperate Note component.
